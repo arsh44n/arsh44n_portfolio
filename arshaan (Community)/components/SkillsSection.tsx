@@ -1,3 +1,4 @@
+/*
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 const skills = [
@@ -117,3 +118,4 @@ export function SkillsSection() {
     </section>
   );
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import { Button } from "./ui/button";
 import profileImage from 'figma:asset/f3672e3635b2d4db203e31be7db91882d942599c.png';
 
@@ -69,3 +70,4 @@ export function AboutSection() {
     </section>
   );
 }
+*/

@@ -1,3 +1,4 @@
+/*
 import { useEffect, useRef } from "react";
 import { Carousel, CarouselContent, CarouselItem } from "./ui/carousel";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
@@ -198,3 +199,4 @@ export function HeroSection() {
     </div>
   );
 }
+*/

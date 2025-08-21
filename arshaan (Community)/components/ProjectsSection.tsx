@@ -1,3 +1,4 @@
+/*
 import neurionImage from 'figma:asset/fe58bfeec4e845a0ca79da58da7394a638cf0661.png';
 import aiDoctorImage from 'figma:asset/d54c9cebb0461903dc022054e9188ca044f04bd7.png';
 import hrAnalyticsImage from 'figma:asset/551e1fa11ac451e73c4352556e075e9d60da1c19.png';
@@ -139,3 +140,4 @@ export function ProjectsSection() {
     </section>
   );
 }
+*/

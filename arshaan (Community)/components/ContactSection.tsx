@@ -1,3 +1,4 @@
+/*
 import { useEffect, useRef } from "react";
 import { Button } from "./ui/button";
 
@@ -156,3 +157,4 @@ export function ContactSection() {
     </section>
   );
 }
+*/
